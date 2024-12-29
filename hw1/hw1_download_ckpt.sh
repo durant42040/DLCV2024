@@ -1,0 +1,2 @@
+wget -O best-resnet-model.ckpt "https://www.dropbox.com/scl/fi/pc3nh4iyfcid4zqgsoifr/best-model.ckpt?rlkey=800rsabhayydw75vnzdzk4c12&st=65bh5j8z&dl=1"
+wget -O best-deeplab-model.ckpt "https://www.dropbox.com/scl/fi/sdublyopfli0eu8gn4b4w/best-deeplab-model.ckpt?rlkey=yyk6x6pcjlbrptrv2rv77w0cr&st=8eaxx0wa&dl=1"

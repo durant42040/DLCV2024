@@ -1,0 +1,2 @@
+python3 -c "from transformers import LlavaForConditionalGeneration; import torch; LlavaForConditionalGeneration.from_pretrained('llava-hf/llava-1.5-7b-hf', torch_dtype=torch.float32, low_cpu_mem_usage=True, load_in_4bit=True)"
+python3 -c "import timm; timm.create_model('vit_large_patch14_clip_224.openai',pretrained=True,num_classes=0)"

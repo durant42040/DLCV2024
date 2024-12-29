@@ -1,0 +1,5 @@
+bitsandbytes==0.44.1
+accelerate==1.0.1
+transformers==4.45.2
+git+https://github.com/openai/CLIP.git
+git+https://github.com/bckim92/language-evaluation.git

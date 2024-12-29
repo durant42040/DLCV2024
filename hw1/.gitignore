@@ -1,0 +1,19 @@
+#Ignore the dataset
+#IMPORTANT: make sure that your dataset is stored in a folder with the same as the one specified below
+
+hw1_data/*
+*png
+*jpg
+
+.idea/
+
+*.ckpt
+*.pt
+
+*.csv
+
+lightning_logs/
+.cadence/
+
+__pycache__/
+*_logs/

@@ -1,0 +1,11 @@
+__pycache__/
+CODA/
+CODA-LM/
+test/
+val/
+*.zip
+*.ipynb
+.txt
+!few_shot/**/*.json
+.idea
+.cadence
